@@ -1,4 +1,4 @@
-import lvgl as lv
+import lvgl as lv # using an lvgl display for rich graphics
 import display
 import random
 import time
